@@ -1,7 +1,7 @@
 
 .main{
 	width: 100%;
-	background-image: url(../img/Slider.SVG);
+	background-image: url(../img/Slider.png);
 	min-height: 100vh;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -13,6 +13,9 @@
 
 
 
+}
+.mark1 img{
+	width: 260px;
 }
 .Group{
 	width: 740px;
